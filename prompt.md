@@ -1,30 +1,32 @@
-Generate a complete SEO content strategy for a Coaching Institute Website.
+  
+Act as an expert SEO strategist and education content marketer. Generate a complete SEO content strategy for a coaching institute website including:
+
+Business Overview
+
+Main Target Keyword
+
+Search Intent
+
+Content Pillar Topic
+
+10 Supporting Blog Topics
+
+Primary Keyword for each Blog
+
+Internal Linking Strategy
+
+Local SEO Strategy
+
+Meta Title
+
+Meta Description
+
+Call To Action
 
 Business Details:
 
 Business Name: BrightPath Coaching Institute
-Location: Pedatadepalli
-Target Audience: Students preparing for competitive exams, college aspirants, school students, parents seeking coaching support
-Main Topic: How Coaching Institutes Help Students Succeed in 2026
 
-Include the following sections:
+Location: Hyderabad
 
-Business Overview
-Main Target Keyword
-Search Intent
-Content Pillar Topic
-10 Supporting Blog Topics
-Primary Keyword for Each Blog Topic
-Internal Linking Strategy
-SEO Strategy
-Meta Title
-Meta Description
-Call To Action (CTA)
-
-Make the content:
-
-* SEO-friendly
-* Beginner-friendly
-* Suitable for an education/business website
-* Structured with clear headings and bullet points
-* Focused on exam preparation, study techniques, coaching benefits, local SEO, and future education trends
+Target Audience: School students, college aspirants, competitive exam candidates, parents seeking coaching support
